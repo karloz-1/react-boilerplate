@@ -7,7 +7,7 @@ Template para proyectos de react lista para usar y desarrollar | **out-of-the-bo
 2. Colocar el comando: `npm install`
 3. Desarrollar
 
-> [!Note]Nota
+> [!Note]
 > Si quieres implementar esta plantilla automatizada con un solo comando que hace todos los pasos y además hace unas funciones extras bastante utiles, mira este repo: **Pronto**
 
 ## Stack:
