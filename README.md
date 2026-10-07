@@ -1,4 +1,14 @@
 # React Template
+Template para proyectos de react lista para usar y desarrollar | **out-of-the-box**
+
+## Uso
+
+1. Clonar el repositorio
+2. Colocar el comando: `npm install`
+3. Desarrollar
+
+> [!Note]Nota
+> Si quieres implementar esta plantilla automatizada con un solo comando que hace todos los pasos y además hace unas funciones extras bastante utiles, mira este repo: **Pronto**
 
 ## Stack:
 - React
@@ -9,6 +19,7 @@
 Esta función es para pasar contenido en el className de los componentes sin problema.
 
 Ejemplo de uso:
+
 ```jsx
 // H1.jsx
 import { cn } from "../utils/cn";
